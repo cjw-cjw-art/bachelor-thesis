@@ -5,6 +5,9 @@ Federated learning is a distributed machine learning approach that allows collab
 
 ## 在MINST和CIFAR-10两个数据集上，两种本地训练初始化方法的实验代码
 实验代码：固定权重https://www.kaggle.com/code/cjwsgdtc1/cifar-10的1-5CIFAAR-10部分是正确代码
+
 实验代码：固定权重https://www.kaggle.com/code/cjwsgdtc1/cifar-10D的1-5MINST部分是正确代码
+
 实验代码：可学习权重https://www.kaggle.com/code/starwen/cifar10
+
 实验代码：可学习权重https://www.kaggle.com/code/starwen/minst
