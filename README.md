@@ -8,6 +8,6 @@ Federated learning is a distributed machine learning approach that allows collab
 
 固定权重实验代码：https://www.kaggle.com/code/cjwsgdtc1/minst
 
-可学习权重实验代码：https://www.kaggle.com/code/starwen/cifar10
+可学习权重实验代码：https://www.kaggle.com/code/cjwsgdtc1/notebookbc55c3aa93
 
-可学习权重实验代码：https://www.kaggle.com/code/starwen/minst
+可学习权重实验代码：https://www.kaggle.com/code/cjwsgdtc1/cifar10
